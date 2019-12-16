@@ -1,6 +1,6 @@
 # Blue-Pill-lineup
 
-<img src=https://github.com/DIYFXWorld/Blue-Pill-lineup/blob/master/image/photo_1.jpg width=200>
+<img src=https://github.com/DIYFXWorld/Blue-Pill-lineup/blob/master/image/photo_1.jpg width=300>
 
 |      |Core     |FPU |System Clock|Program Flash|SRAM|ADC      |DAC |
 |----  |----     |----|----        |----         |----|----     |----|
