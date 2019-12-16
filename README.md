@@ -1,6 +1,6 @@
 # Blue Pill-lineup
 
-### F103C8
+## F103C8
 
 |Core     |FPU |System Clock|Program Flash|SRAM|ADC      |DAC |
 |----     |----|----        |----         |----|----     |----|
@@ -17,3 +17,4 @@ DACはありませんがエレキギター用であればPWMを使った疑似DACでも十分です。
 I2Sが無いので外部コーデックの利用は難しいです。
 
 ----
+
