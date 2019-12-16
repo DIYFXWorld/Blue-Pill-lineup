@@ -27,8 +27,8 @@ I2Sが無いので外部コーデックの利用は難しいです。
 |Cortex-M4|Yes |72MHz       |256k         |40k+8k|ADC(5M)x4|DACx2|
 
 <img src=https://github.com/DIYFXWorld/Blue-Pill-lineup/blob/master/image/photo_2.jpg width=300 align=left>
-Cortex-M4です。
-FPU内蔵でプログラムでfloat(単精度浮動小数点)が普通に使えるので固定小数点数とオサラバできます。 
+Cortex-M4はFPU内蔵でプログラムでfloat(単精度浮動小数点)が普通に使えるので
+固定小数点数とオサラバできます。 
 F103C8とはピンコンパチです。
 ADCが5系統もあり差動入力もできます。
 何気にI2Sやオペアンプを内蔵していたりと非常に多機能なMCUですが、
