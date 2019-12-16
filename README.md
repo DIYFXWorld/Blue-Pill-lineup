@@ -1,6 +1,6 @@
 # Blue Pill-lineup
 
-## F103C8
+## STM32F103C8
 
 |Core     |FPU |System Clock|Program Flash|SRAM|ADC      |DAC |
 |----     |----|----        |----         |----|----     |----|
