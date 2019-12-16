@@ -6,8 +6,7 @@
 |----     |----|----        |----         |----|----     |----|
 |Cortex-M3|None|72MHz       |64k          |20k |ADC(1M)x2|None|
 
-<img src=https://github.com/DIYFXWorld/Blue-Pill-lineup/blob/master/image/photo_1.jpg width=300>
-
+<img src=https://github.com/DIYFXWorld/Blue-Pill-lineup/blob/master/image/photo_1.jpg width=300 align=left>
 Cortex-M3コアです。 
 Cortex-M3はFPUが無いのでハードウェアで実数計算できません。
 非力なMCUですが2系統のADCを持っているのは高得点で、
